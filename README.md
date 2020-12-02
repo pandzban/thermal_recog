@@ -1,3 +1,5 @@
+#Thermal Recognition
+
 Project of Python script using 2-layer neural network to recognize gestures.
 
 The samples for training can be acquired, and tagged by script gui, whilst training needs to be done in external program, not included here.
