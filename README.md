@@ -1,4 +1,3 @@
-#thermal_recog
 
 Project of Python script using 2-layer neural network to recognize gestures.
 
